@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//eroot_final/static/css/main.90cda5e6.css",
+    "main.js": "//eroot_final/static/js/main.3cc98dac.js",
+    "static/js/787.34b20ecb.chunk.js": "//eroot_final/static/js/787.34b20ecb.chunk.js",
+    "static/media/charging4.jpg": "//eroot_final/static/media/charging4.e60c7afa912c34e3a265.jpg",
+    "static/media/charging3.jpg": "//eroot_final/static/media/charging3.fb834dce0063556fac23.jpg",
+    "static/media/Charging Station.png": "//eroot_final/static/media/Charging Station.167972ab8aaaef42abef.png",
+    "static/media/AdobeStock.png": "//eroot_final/static/media/AdobeStock.5b7066de075eb67f4f07.png",
+    "static/media/E ROOTS LOGO.png": "//eroot_final/static/media/E ROOTS LOGO.0d51b34c383fbe1781e6.png",
+    "static/media/Lithium.png": "//eroot_final/static/media/Lithium.6be1abb9941c1d6d6dc8.png",
+    "static/media/electrickia_103.jpg": "//eroot_final/static/media/electrickia_103.0af208d061ab099f283b.jpg",
+    "static/media/Inverter.png": "//eroot_final/static/media/Inverter.4dced67f405461197920.png",
+    "static/media/charging2.jpg": "//eroot_final/static/media/charging2.f48e928f93ba3dd6199e.jpg",
+    "static/media/logo.svg": "//eroot_final/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//eroot_final/index.html",
+    "main.90cda5e6.css.map": "//eroot_final/static/css/main.90cda5e6.css.map",
+    "main.3cc98dac.js.map": "//eroot_final/static/js/main.3cc98dac.js.map",
+    "787.34b20ecb.chunk.js.map": "//eroot_final/static/js/787.34b20ecb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cda5e6.css",
+    "static/js/main.3cc98dac.js"
+  ]
+}
